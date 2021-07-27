@@ -1,0 +1,31 @@
+body
+{
+    background-size: cover;
+}
+.header
+{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    border-radius: 100px 50px;
+}
+#start_button
+{
+    font-size: 18px;
+    float: bottom;
+}
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+    color: lavenderblush;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
